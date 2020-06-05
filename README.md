@@ -5,5 +5,5 @@ This is my submission for the fourth assesment project in Dicoding "Menjadi Andr
 Checklists:
 * The application can save movies to the favorite database. 
 * The application can delete movies from the favorite database. 
-* A page to display a list of favorite films. 
+* A page to display a list of favorite movies. 
 * All application features and components used in Submission 3 must be maintained.
